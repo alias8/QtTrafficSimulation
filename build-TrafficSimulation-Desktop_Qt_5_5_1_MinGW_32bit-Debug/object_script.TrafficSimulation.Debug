@@ -1,0 +1,15 @@
+INPUT(
+./debug\businessman.o
+./debug\dialog.o
+./debug\gridsquare.o
+./debug\main.o
+./debug\pathnode.o
+./debug\person.o
+./debug\simulationcontroller.o
+./debug\tourist.o
+./debug\trafficlight.o
+./debug\train.o
+./debug\qrc_resources.o
+./debug\moc_dialog.o
+./debug\moc_simulationcontroller.o
+);

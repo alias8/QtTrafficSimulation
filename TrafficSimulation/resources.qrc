@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>pics/a_control.jpg</file>
+        <file>pics/a_non-control.jpg</file>
+        <file>pics/a_trailer.jpg</file>
+        <file>pics/bottom_bar2.png</file>
+        <file>pics/distribution-icon.psd</file>
+        <file>pics/double-distribution-icon.png</file>
+        <file>pics/ends-distribution-icon.png</file>
+        <file>pics/even-distribution-icon.png</file>
+        <file>pics/fast_forward.png</file>
+        <file>pics/left-distribution-icon.png</file>
+        <file>pics/middle-distribution-icon.png</file>
+        <file>pics/pause.png</file>
+        <file>pics/play.png</file>
+        <file>pics/reset.png</file>
+        <file>pics/right-distribution-icon.png</file>
+        <file>pics/sidebarbutton.png</file>
+        <file>pics/Town-Hall-Station.psd</file>
+        <file>pics/Town-Hall-Station-Cropped.png</file>
+        <file>pics/Town-Hall-Station-Final.png</file>
+        <file>pics/Town-Hall-Station-Old.png</file>
+        <file>pics/train.png</file>
+        <file>example path.xlsx</file>
+        <file>node_data.txt</file>
+        <file>node_data.xlsx</file>
+        <file>node_data_modified.xlsx</file>
+        <file>node_data_modified_txt.txt</file>
+    </qresource>
+</RCC>
