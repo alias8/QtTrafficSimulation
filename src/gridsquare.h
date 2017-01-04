@@ -7,7 +7,7 @@
 class GridSquare : public QGraphicsRectItem
 {
 public:
-
+//
     GridSquare( qreal x, qreal y, qreal width, int counter, Globals &g, QGraphicsItem * parent = 0 );
     void advance(int phase);
     void paint ( QPainter * painter, const QStyleOptionGraphicsItem * option,
